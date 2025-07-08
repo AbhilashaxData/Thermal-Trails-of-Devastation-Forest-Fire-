@@ -1,4 +1,5 @@
-#🔥 THERMAL TRAILS OF DEVASTATION: FOREST FIRE PATTERNS IN INDIA (2015-2024)
+## 🔥 *THERMAL TRAILS OF DEVASTATION: FOREST FIRE PATTERNS IN INDIA (2015-2024)*
+
 ## 🌱 About This Project
 
 This self-driven data storytelling project explores **forest fire alerts** across Indian states from **2015 to 2024**, built using a simulated dataset and visualized through **Power BI**.
