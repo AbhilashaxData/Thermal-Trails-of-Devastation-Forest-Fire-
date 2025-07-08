@@ -92,12 +92,14 @@ I created this dashboard to better understand how **climate, ecology, and data**
 
 **Abhilasha Das** 
 🎓 Data Science Aspirant | Research-Driven Storyteller 
+
 🌏 Passionate about nature, numbers, and visualizing what data can’t say aloud 
+
 📍 Curious mind exploring real-world insights through simple tools
 
 ---
 ## 📬 Connect
-- [LinkedIn](https://www.linkedin.com/in/abhilasha-das) ;
+- [LinkedIn]https://www.linkedin.com/in/abhilasha-das-375a95324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ;
 ---
 
 “This dashboard doesn’t just track forest fires — 
