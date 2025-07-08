@@ -35,8 +35,11 @@ These publicly accessible resources inspired the structure and simulation:
 |--------------|--------------------------------------|
 
 | Excel        | Dataset simulation, structuring      |
+
 | Power BI     | Data modeling, DAX, visuals           |
+
 | FIRMS (NASA) | Conceptual data inspiration           |
+
 | ISRO/NESAC   | Forest fire monitoring methodology    |
 
 ---
